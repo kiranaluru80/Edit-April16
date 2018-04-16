@@ -1,0 +1,742 @@
+﻿{
+  "JSSE_ID": 604,
+  "Observer_ID": 0,
+  "Observee_ID": 0,
+  "Hierarchy_ID": 157,
+  "Region_ID": 1,
+  "Region": null,
+  "JSSETitle": null,
+  "JobName": null,
+  "JobDescription": null,
+  "JSSEDate": "2018-03-12T00:00:00",
+  "Categories": [
+    {
+      "Category_ID": 1,
+      "Category": "Communications",
+      "CategoryDesc": "Communications",
+      "SortOrder": 1,
+      "EntBehaviors": [
+        {
+          "Behavior_ID": 1,
+          "Behavior": "Job Briefing",
+          "BehaviorDesc": "Job Briefing",
+          "BehaviorType_ID": 1,
+          "BehaviorType": "Enterprise",
+          "Org_ID": null,
+          "BehviorChecked": true,
+          "IsActive": true,
+          "Category_ID": 190,
+          "Rating_ID": 2,
+          "Rating": "Effective",
+          "Comments": null,
+          "SortOrder": 1
+        },
+        {
+          "Behavior_ID": 5,
+          "Behavior": "Work Plans/ JSA",
+          "BehaviorDesc": "Work Plans/ JSA",
+          "BehaviorType_ID": 1,
+          "BehaviorType": "Enterprise",
+          "Org_ID": null,
+          "BehviorChecked": true,
+          "IsActive": true,
+          "Category_ID": 190,
+          "Rating_ID": 2,
+          "Rating": "Effective",
+          "Comments": null,
+          "SortOrder": 2
+        },
+        {
+          "Behavior_ID": 7,
+          "Behavior": "Miscellaneous Communication",
+          "BehaviorDesc": "Miscellaneous Communication",
+          "BehaviorType_ID": 1,
+          "BehaviorType": "Enterprise",
+          "Org_ID": null,
+          "BehviorChecked": true,
+          "IsActive": true,
+          "Category_ID": 190,
+          "Rating_ID": 3,
+          "Rating": "Improvement Opportunity",
+          "Comments": null,
+          "SortOrder": 3
+        },
+        {
+          "Behavior_ID": 9,
+          "Behavior": "Change Management",
+          "BehaviorDesc": "Change Management",
+          "BehaviorType_ID": 1,
+          "BehaviorType": "Enterprise",
+          "Org_ID": null,
+          "BehviorChecked": true,
+          "IsActive": true,
+          "Category_ID": 190,
+          "Rating_ID": 2,
+          "Rating": "Effective",
+          "Comments": null,
+          "SortOrder": 4
+        }
+      ],
+      "OrgBehaviors": [
+        {
+          "Behavior_ID": 8,
+          "Behavior": "bw b3",
+          "BehaviorDesc": "bw b3",
+          "BehaviorType_ID": 2,
+          "BehaviorType": "Organization",
+          "Org_ID": 720,
+          "BehviorChecked": true,
+          "IsActive": true,
+          "Category_ID": 190,
+          "Rating_ID": 1,
+          "Rating": "Exceptional",
+          "Comments": null,
+          "SortOrder": 1
+        },
+        {
+          "Behavior_ID": 3,
+          "Behavior": "bw b2",
+          "BehaviorDesc": "bw b2",
+          "BehaviorType_ID": 2,
+          "BehaviorType": "Organization",
+          "Org_ID": 720,
+          "BehviorChecked": true,
+          "IsActive": true,
+          "Category_ID": 190,
+          "Rating_ID": 2,
+          "Rating": "Effective",
+          "Comments": null,
+          "SortOrder": 2
+        },
+        {
+          "Behavior_ID": 2,
+          "Behavior": "bw b1",
+          "BehaviorDesc": "bw b1",
+          "BehaviorType_ID": 2,
+          "BehaviorType": "Organization",
+          "Org_ID": 720,
+          "BehviorChecked": true,
+          "IsActive": true,
+          "Category_ID": 190,
+          "Rating_ID": 1,
+          "Rating": "Exceptional",
+          "Comments": null,
+          "SortOrder": 3
+        }
+      ],
+      "Ratings": [
+        {
+          "Rating_ID": 1,
+          "Rating": "Exceptional",
+          "RatingChecked": false,
+          "Selected": false
+        },
+        {
+          "Rating_ID": 2,
+          "Rating": "Effective",
+          "RatingChecked": false,
+          "Selected": false
+        },
+        {
+          "Rating_ID": 3,
+          "Rating": "Improvement Opportunity",
+          "RatingChecked": false,
+          "Selected": false
+        }
+      ],
+      "Comments": null,
+      "RatingID": "2",
+      "IsActive": true,
+      "IsRequired": false,
+      "JSSE_ID": 604,
+      "AllOrgBehaviors": null
+    },
+    {
+      "Category_ID": 2,
+      "Category": "Energy Source Control",
+      "CategoryDesc": "Energy Source Control",
+      "SortOrder": 2,
+      "EntBehaviors": [
+        {
+          "Behavior_ID": 6,
+          "Behavior": "Line of Fire Control",
+          "BehaviorDesc": "Line of Fire Control",
+          "BehaviorType_ID": 1,
+          "BehaviorType": "Enterprise",
+          "Org_ID": null,
+          "BehviorChecked": true,
+          "IsActive": true,
+          "Category_ID": 191,
+          "Rating_ID": 3,
+          "Rating": "Improvement Opportunity",
+          "Comments": null,
+          "SortOrder": 1
+        },
+        {
+          "Behavior_ID": 10,
+          "Behavior": "Hazard Identification",
+          "BehaviorDesc": "Hazard Identification",
+          "BehaviorType_ID": 1,
+          "BehaviorType": "Enterprise",
+          "Org_ID": null,
+          "BehviorChecked": true,
+          "IsActive": true,
+          "Category_ID": 191,
+          "Rating_ID": 1,
+          "Rating": "Exceptional",
+          "Comments": null,
+          "SortOrder": 2
+        },
+        {
+          "Behavior_ID": 11,
+          "Behavior": "Adherence to plan (Improvisation)",
+          "BehaviorDesc": "Adherence to plan (Improvisation)",
+          "BehaviorType_ID": 1,
+          "BehaviorType": "Enterprise",
+          "Org_ID": null,
+          "BehviorChecked": false,
+          "IsActive": true,
+          "Category_ID": null,
+          "Rating_ID": null,
+          "Rating": null,
+          "Comments": null,
+          "SortOrder": 3
+        },
+        {
+          "Behavior_ID": 12,
+          "Behavior": "Traffic Flow Control",
+          "BehaviorDesc": "Traffic Flow Control",
+          "BehaviorType_ID": 1,
+          "BehaviorType": "Enterprise",
+          "Org_ID": null,
+          "BehviorChecked": false,
+          "IsActive": true,
+          "Category_ID": null,
+          "Rating_ID": null,
+          "Rating": null,
+          "Comments": null,
+          "SortOrder": 4
+        },
+        {
+          "Behavior_ID": 13,
+          "Behavior": "House Keeping/ Congestion",
+          "BehaviorDesc": "House Keeping/ Congestion",
+          "BehaviorType_ID": 1,
+          "BehaviorType": "Enterprise",
+          "Org_ID": null,
+          "BehviorChecked": false,
+          "IsActive": true,
+          "Category_ID": null,
+          "Rating_ID": null,
+          "Rating": null,
+          "Comments": null,
+          "SortOrder": 5
+        }
+      ],
+      "OrgBehaviors": [
+        {
+          "Behavior_ID": 4,
+          "Behavior": "bw es b1",
+          "BehaviorDesc": "bw es b1",
+          "BehaviorType_ID": 2,
+          "BehaviorType": "Organization",
+          "Org_ID": 720,
+          "BehviorChecked": true,
+          "IsActive": true,
+          "Category_ID": 191,
+          "Rating_ID": 1,
+          "Rating": "Exceptional",
+          "Comments": null,
+          "SortOrder": 1
+        }
+      ],
+      "Ratings": [
+        {
+          "Rating_ID": 1,
+          "Rating": "Exceptional",
+          "RatingChecked": false,
+          "Selected": false
+        },
+        {
+          "Rating_ID": 2,
+          "Rating": "Effective",
+          "RatingChecked": false,
+          "Selected": false
+        },
+        {
+          "Rating_ID": 3,
+          "Rating": "Improvement Opportunity",
+          "RatingChecked": false,
+          "Selected": false
+        }
+      ],
+      "Comments": "Note: The Factor ratings are used to identify improvement opportunities or to note best practices at the time of observation. Any factor being rated may be described in the comments field, and should be considered when rating the observation. For Example, select one of the 3 ratings for “Job Briefing” if a job briefing was being performed at the time of observation. Note: The Factor ratings are used to identify improvement opportunities or to note best practices at the time of observation. Any factor being rated may be described in the comments field, and should be considered when rating the observation. For Example, select one of the 3 ratings for “Job Briefing” if a job briefing was being performed at the time of observation. Note: The Factor ratings are used to identify improvement opportunities or to note best practices at the time of observation. Any factor being rated may be described in the comments field, and should be considered when rating the observation. For Example, select one of the 3 ratings for “Job Briefing” if a job briefing was being performed at the time of observation.",
+      "RatingID": "2",
+      "IsActive": true,
+      "IsRequired": true,
+      "JSSE_ID": 604,
+      "AllOrgBehaviors": null
+    },
+    {
+      "Category_ID": 3,
+      "Category": "Work Area Setup",
+      "CategoryDesc": "Work Area Setup",
+      "SortOrder": 3,
+      "EntBehaviors": [
+        {
+          "Behavior_ID": 14,
+          "Behavior": "Traffic Flow Control",
+          "BehaviorDesc": "Traffic Flow Control",
+          "BehaviorType_ID": 1,
+          "BehaviorType": "Enterprise",
+          "Org_ID": null,
+          "BehviorChecked": true,
+          "IsActive": true,
+          "Category_ID": 192,
+          "Rating_ID": 3,
+          "Rating": "Improvement Opportunity",
+          "Comments": null,
+          "SortOrder": 1
+        },
+        {
+          "Behavior_ID": 15,
+          "Behavior": "House Keeping/ Congestion",
+          "BehaviorDesc": "House Keeping/ Congestion",
+          "BehaviorType_ID": 1,
+          "BehaviorType": "Enterprise",
+          "Org_ID": null,
+          "BehviorChecked": true,
+          "IsActive": true,
+          "Category_ID": 192,
+          "Rating_ID": 3,
+          "Rating": "Improvement Opportunity",
+          "Comments": null,
+          "SortOrder": 2
+        },
+        {
+          "Behavior_ID": 16,
+          "Behavior": "Barriers and Warnings",
+          "BehaviorDesc": "Barriers and Warnings",
+          "BehaviorType_ID": 1,
+          "BehaviorType": "Enterprise",
+          "Org_ID": null,
+          "BehviorChecked": true,
+          "IsActive": true,
+          "Category_ID": 192,
+          "Rating_ID": 1,
+          "Rating": "Exceptional",
+          "Comments": null,
+          "SortOrder": 3
+        },
+        {
+          "Behavior_ID": 17,
+          "Behavior": "Damaged or altered tools",
+          "BehaviorDesc": "Damaged or altered tools",
+          "BehaviorType_ID": 1,
+          "BehaviorType": "Enterprise",
+          "Org_ID": null,
+          "BehviorChecked": false,
+          "IsActive": true,
+          "Category_ID": null,
+          "Rating_ID": null,
+          "Rating": null,
+          "Comments": null,
+          "SortOrder": 4
+        }
+      ],
+      "OrgBehaviors": [],
+      "Ratings": [
+        {
+          "Rating_ID": 1,
+          "Rating": "Exceptional",
+          "RatingChecked": false,
+          "Selected": false
+        },
+        {
+          "Rating_ID": 2,
+          "Rating": "Effective",
+          "RatingChecked": false,
+          "Selected": false
+        },
+        {
+          "Rating_ID": 3,
+          "Rating": "Improvement Opportunity",
+          "RatingChecked": false,
+          "Selected": false
+        }
+      ],
+      "Comments": null,
+      "RatingID": "3",
+      "IsActive": true,
+      "IsRequired": false,
+      "JSSE_ID": 604,
+      "AllOrgBehaviors": null
+    },
+    {
+      "Category_ID": 4,
+      "Category": "Proper Use of PPE",
+      "CategoryDesc": "Proper Use of PPE",
+      "SortOrder": 4,
+      "EntBehaviors": [
+        {
+          "Behavior_ID": 18,
+          "Behavior": "Matches the Hazard",
+          "BehaviorDesc": "Matches the Hazard",
+          "BehaviorType_ID": 1,
+          "BehaviorType": "Enterprise",
+          "Org_ID": null,
+          "BehviorChecked": false,
+          "IsActive": true,
+          "Category_ID": null,
+          "Rating_ID": null,
+          "Rating": null,
+          "Comments": null,
+          "SortOrder": 1
+        },
+        {
+          "Behavior_ID": 19,
+          "Behavior": "Inspection before/ during use",
+          "BehaviorDesc": "Inspection before/ during use",
+          "BehaviorType_ID": 1,
+          "BehaviorType": "Enterprise",
+          "Org_ID": null,
+          "BehviorChecked": true,
+          "IsActive": true,
+          "Category_ID": 193,
+          "Rating_ID": 1,
+          "Rating": "Exceptional",
+          "Comments": null,
+          "SortOrder": 2
+        },
+        {
+          "Behavior_ID": 20,
+          "Behavior": "Use matching training/ instruction",
+          "BehaviorDesc": "Use matching training/ instruction",
+          "BehaviorType_ID": 1,
+          "BehaviorType": "Enterprise",
+          "Org_ID": null,
+          "BehviorChecked": false,
+          "IsActive": true,
+          "Category_ID": null,
+          "Rating_ID": null,
+          "Rating": null,
+          "Comments": null,
+          "SortOrder": 3
+        },
+        {
+          "Behavior_ID": 21,
+          "Behavior": "Boots/Hardhats/Eye Protection",
+          "BehaviorDesc": "Boots/Hardhats/Eye Protection",
+          "BehaviorType_ID": 1,
+          "BehaviorType": "Enterprise",
+          "Org_ID": null,
+          "BehviorChecked": false,
+          "IsActive": true,
+          "Category_ID": null,
+          "Rating_ID": null,
+          "Rating": null,
+          "Comments": null,
+          "SortOrder": 4
+        },
+        {
+          "Behavior_ID": 22,
+          "Behavior": "Unauthorized items",
+          "BehaviorDesc": "Unauthorized items",
+          "BehaviorType_ID": 1,
+          "BehaviorType": "Enterprise",
+          "Org_ID": null,
+          "BehviorChecked": false,
+          "IsActive": true,
+          "Category_ID": null,
+          "Rating_ID": null,
+          "Rating": null,
+          "Comments": null,
+          "SortOrder": 5
+        }
+      ],
+      "OrgBehaviors": [],
+      "Ratings": [
+        {
+          "Rating_ID": 1,
+          "Rating": "Exceptional",
+          "RatingChecked": false,
+          "Selected": false
+        },
+        {
+          "Rating_ID": 2,
+          "Rating": "Effective",
+          "RatingChecked": false,
+          "Selected": false
+        },
+        {
+          "Rating_ID": 3,
+          "Rating": "Improvement Opportunity",
+          "RatingChecked": false,
+          "Selected": false
+        }
+      ],
+      "Comments": null,
+      "RatingID": "0",
+      "IsActive": true,
+      "IsRequired": false,
+      "JSSE_ID": 604,
+      "AllOrgBehaviors": null
+    },
+    {
+      "Category_ID": 5,
+      "Category": "Work Methods, Techniques & HPI",
+      "CategoryDesc": "Work Methods, Techniques & HPI",
+      "SortOrder": 5,
+      "EntBehaviors": [
+        {
+          "Behavior_ID": 39,
+          "Behavior": "Working Alone",
+          "BehaviorDesc": "Working Alone",
+          "BehaviorType_ID": 1,
+          "BehaviorType": "Enterprise",
+          "Org_ID": null,
+          "BehviorChecked": false,
+          "IsActive": true,
+          "Category_ID": null,
+          "Rating_ID": null,
+          "Rating": null,
+          "Comments": null,
+          "SortOrder": 1
+        },
+        {
+          "Behavior_ID": 40,
+          "Behavior": "Fatigue",
+          "BehaviorDesc": "Fatigue",
+          "BehaviorType_ID": 1,
+          "BehaviorType": "Enterprise",
+          "Org_ID": null,
+          "BehviorChecked": false,
+          "IsActive": true,
+          "Category_ID": null,
+          "Rating_ID": null,
+          "Rating": null,
+          "Comments": null,
+          "SortOrder": 2
+        },
+        {
+          "Behavior_ID": 41,
+          "Behavior": "HPI tools / techniques",
+          "BehaviorDesc": "HPI tools / techniques",
+          "BehaviorType_ID": 1,
+          "BehaviorType": "Enterprise",
+          "Org_ID": null,
+          "BehviorChecked": false,
+          "IsActive": true,
+          "Category_ID": null,
+          "Rating_ID": null,
+          "Rating": null,
+          "Comments": null,
+          "SortOrder": 3
+        },
+        {
+          "Behavior_ID": 42,
+          "Behavior": "Lifting techniques",
+          "BehaviorDesc": "Lifting techniques",
+          "BehaviorType_ID": 1,
+          "BehaviorType": "Enterprise",
+          "Org_ID": null,
+          "BehviorChecked": false,
+          "IsActive": true,
+          "Category_ID": null,
+          "Rating_ID": null,
+          "Rating": null,
+          "Comments": null,
+          "SortOrder": 4
+        }
+      ],
+      "OrgBehaviors": [],
+      "Ratings": [
+        {
+          "Rating_ID": 1,
+          "Rating": "Exceptional",
+          "RatingChecked": false,
+          "Selected": false
+        },
+        {
+          "Rating_ID": 2,
+          "Rating": "Effective",
+          "RatingChecked": false,
+          "Selected": false
+        },
+        {
+          "Rating_ID": 3,
+          "Rating": "Improvement Opportunity",
+          "RatingChecked": false,
+          "Selected": false
+        }
+      ],
+      "Comments": null,
+      "RatingID": "0",
+      "IsActive": true,
+      "IsRequired": false,
+      "JSSE_ID": 604,
+      "AllOrgBehaviors": null
+    },
+    {
+      "Category_ID": 6,
+      "Category": "Driver/Vehicle Safety Strengths",
+      "CategoryDesc": "Driver/Vehicle Safety Strengths",
+      "SortOrder": 6,
+      "EntBehaviors": [
+        {
+          "Behavior_ID": 44,
+          "Behavior": "Vehicle Inspection",
+          "BehaviorDesc": "Vehicle Inspection",
+          "BehaviorType_ID": 1,
+          "BehaviorType": "Enterprise",
+          "Org_ID": null,
+          "BehviorChecked": false,
+          "IsActive": true,
+          "Category_ID": null,
+          "Rating_ID": null,
+          "Rating": null,
+          "Comments": null,
+          "SortOrder": 1
+        },
+        {
+          "Behavior_ID": 45,
+          "Behavior": "360 Walk - around",
+          "BehaviorDesc": "360 Walk - around",
+          "BehaviorType_ID": 1,
+          "BehaviorType": "Enterprise",
+          "Org_ID": null,
+          "BehviorChecked": false,
+          "IsActive": true,
+          "Category_ID": null,
+          "Rating_ID": null,
+          "Rating": null,
+          "Comments": null,
+          "SortOrder": 2
+        },
+        {
+          "Behavior_ID": 46,
+          "Behavior": "Spotter Use",
+          "BehaviorDesc": "Spotter Use",
+          "BehaviorType_ID": 1,
+          "BehaviorType": "Enterprise",
+          "Org_ID": null,
+          "BehviorChecked": false,
+          "IsActive": true,
+          "Category_ID": null,
+          "Rating_ID": null,
+          "Rating": null,
+          "Comments": null,
+          "SortOrder": 3
+        },
+        {
+          "Behavior_ID": 47,
+          "Behavior": "Condition/ Housekeeping",
+          "BehaviorDesc": "Condition/ Housekeeping",
+          "BehaviorType_ID": 1,
+          "BehaviorType": "Enterprise",
+          "Org_ID": null,
+          "BehviorChecked": false,
+          "IsActive": true,
+          "Category_ID": null,
+          "Rating_ID": null,
+          "Rating": null,
+          "Comments": null,
+          "SortOrder": 4
+        }
+      ],
+      "OrgBehaviors": [],
+      "Ratings": [
+        {
+          "Rating_ID": 1,
+          "Rating": "Exceptional",
+          "RatingChecked": false,
+          "Selected": false
+        },
+        {
+          "Rating_ID": 2,
+          "Rating": "Effective",
+          "RatingChecked": false,
+          "Selected": false
+        },
+        {
+          "Rating_ID": 3,
+          "Rating": "Improvement Opportunity",
+          "RatingChecked": false,
+          "Selected": false
+        }
+      ],
+      "Comments": null,
+      "RatingID": "0",
+      "IsActive": true,
+      "IsRequired": false,
+      "JSSE_ID": 604,
+      "AllOrgBehaviors": null
+    }
+  ],
+  "JSSEStatus": "Draft",
+  "IsAnonymous": true,
+  "IsOBSRAnonymous": false,
+  "MajorGroup_Id": 706,
+  "Org_Id": 720,
+  "Dept_Id": 0,
+  "Section_Id": 0,
+  "JSSEEnteredBy": "CONED\\DALAPATHIV",
+  "JSSECreator": "Dalapathi, Venkata",
+  "Location": "4IP",
+  "Observer": null,
+  "Observers": [
+    {
+      "CompanyId": null,
+      "UserRole": "Observer",
+      "Emp_Id": 6558,
+      "FirstName": "Venkata",
+      "LastName": "Dalapathi",
+      "UserTitle": null,
+      "Email": null,
+      "User_ID": "CONED\\DALAPATHIV",
+      "FullName": "Dalapathi , Venkata",
+      "MajorGroup_Id": "706",
+      "Org_Id": "720",
+      "Dept_Id": "",
+      "Section_Id": "",
+      "SecurityUserID": 0
+    }
+  ],
+  "IsSupervsrOBSRSame": 1,
+  "HasContractor": 0,
+  "Supervisors": [],
+  "Observees": [
+    {
+      "CompanyId": null,
+      "UserRole": null,
+      "Emp_Id": 0,
+      "FirstName": "Anonymous",
+      "LastName": "Anonymous",
+      "UserTitle": null,
+      "Email": null,
+      "User_ID": "Anonymous",
+      "FullName": "Anonymous , Anonymous",
+      "MajorGroup_Id": "706",
+      "Org_Id": "720",
+      "Dept_Id": "",
+      "Section_Id": "",
+      "SecurityUserID": 0
+    }
+  ],
+  "SelObservers": "Dalapathi , Venkata",
+  "SelObservees": "Anonymous , Anonymous",
+  "SelSupervisors": "",
+  "IsExternal": null,
+  "CreatedDate": null,
+  "Attachments": [],
+  "IsCreator": false,
+  "Base64_JSSE_ID": "604",
+  "majorgroups": null,
+  "organizations": null,
+  "departments": null,
+  "sections": null,
+  "AttachmentCount": null,
+  "ContractCompanyID": 0,
+  "Image": null,
+  "ImageName": null
+}

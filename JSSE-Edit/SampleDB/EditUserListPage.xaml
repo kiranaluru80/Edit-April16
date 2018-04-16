@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+    x:Class="SampleDB.EditUserListPage">
+	<RelativeLayout HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand">
+        <StackLayout RelativeLayout.WidthConstraint="{ConstraintExpression Type=RelativeToParent, Property=Width,Factor=1.0}" RelativeLayout.HeightConstraint="{ConstraintExpression Type=RelativeToParent, Property=Height,Factor=1.0}" VerticalOptions="FillAndExpand" Spacing="0" Padding="0,20,0,0">
+                <!-- listview -->
+                <StackLayout BackgroundColor="White" Orientation="Vertical" HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand" Padding="10,0,10,5">
+                    <ListView x:Name="homeListView" ItemsSource="{Binding ListeviewItemSource}" RowHeight="70" SelectedItem="{Binding YourSelectedItem, Mode=TwoWay}" >
+                        <ListView.ItemTemplate>
+                            <DataTemplate>
+                                <ViewCell>
+                                    <ViewCell.ContextActions>
+                                        <MenuItem Clicked="OnView" CommandParameter="{Binding .}" Text="View" />
+                                        <MenuItem Clicked="OnEdit" CommandParameter="{Binding .}" Text="Edit" IsDestructive="True" />
+                                    </ViewCell.ContextActions>
+                                    <Grid Margin="0,5,0,0" VerticalOptions="Start" RowSpacing ="0" ColumnSpacing ="0">
+                                        <Grid.RowDefinitions>
+                                            <RowDefinition Height="*" />
+                                            <RowDefinition Height="*" />
+                                            <RowDefinition Height="*" />
+                                        </Grid.RowDefinitions>
+                                        <Grid.ColumnDefinitions>
+                                            <ColumnDefinition Width="*" />
+                                            <ColumnDefinition Width="*" />
+                                        </Grid.ColumnDefinitions>
+                                        <Label FontSize="13" Text="JSSE_ID" Grid.Row="0" Grid.Column="0" VerticalTextAlignment="Center" />
+                                        <Label FontSize="13" Text="JSSEStatus" Grid.Row="0" Grid.Column="1" VerticalTextAlignment="Center" />
+                                        <Label FontSize="13" Text="JSSEDate" Grid.Row="0" Grid.Column="2" VerticalTextAlignment="Center" />
+                                        <Label FontSize="13" Text="{Binding JSSE_ID}" Grid.Row="1" Grid.Column="0" VerticalTextAlignment="Center" />
+                                        <Label FontSize="13" Text="{Binding JSSEStatus}" Grid.Row="1" Grid.Column="1" VerticalTextAlignment="Center" />
+                                        <Label FontSize="13" Text="{Binding JSSEDate.Date}" Grid.Row="1" Grid.Column="2" VerticalTextAlignment="Center" />
+                                    </Grid>
+                                </ViewCell>
+                            </DataTemplate>
+                        </ListView.ItemTemplate>
+                    </ListView>
+                </StackLayout>
+                <!-- listview-->
+               
+        </StackLayout>
+    </RelativeLayout>
+</ContentPage>

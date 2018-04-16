@@ -1,0 +1,3083 @@
+﻿[
+
+  {
+
+    "JSSE_ID": 603,
+
+    "Observer_ID": 0,
+
+    "Observee_ID": 0,
+
+    "Hierarchy_ID": 0,
+
+    "Region_ID": 2,
+
+    "Region": "Brooklyn",
+
+    "JSSETitle": null,
+
+    "JobName": "fdgd",
+
+    "JobDescription": "dfgd",
+
+    "JSSEDate": "2018-03-13T20:15:03.443",
+
+    "Categories": null,
+
+    "JSSEStatus": "Submit",
+
+    "IsAnonymous": false,
+
+    "IsOBSRAnonymous": null,
+
+    "MajorGroup_Id": 706,
+
+    "Org_Id": 706,
+
+    "Dept_Id": null,
+
+    "Section_Id": null,
+
+    "JSSEEnteredBy": "jarugulav",
+
+    "JSSECreator": null,
+
+    "Location": "1000 Stockton St\nSan Francisco‎ CA‎ 94108\nUnited States,",
+
+    "Observer": {
+
+      "CompanyId": null,
+
+      "UserRole": null,
+
+      "Emp_Id": 0,
+
+      "FirstName": null,
+
+      "LastName": null,
+
+      "UserTitle": null,
+
+      "Email": null,
+
+      "User_ID": "jarugulav",
+
+      "FullName": "Jarugula Venkata",
+
+      "MajorGroup_Id": null,
+
+      "Org_Id": null,
+
+      "Dept_Id": null,
+
+      "Section_Id": null,
+
+      "SecurityUserID": 0
+
+    },
+
+    "Observers": null,
+
+    "IsSupervsrOBSRSame": 0,
+
+    "HasContractor": null,
+
+    "Supervisors": null,
+
+    "Observees": [
+
+      {
+
+        "CompanyId": null,
+
+        "UserRole": null,
+
+        "Emp_Id": 0,
+
+        "FirstName": null,
+
+        "LastName": null,
+
+        "UserTitle": null,
+
+        "Email": null,
+
+        "User_ID": null,
+
+        "FullName": "Sheeran Declan",
+
+        "MajorGroup_Id": null,
+
+        "Org_Id": null,
+
+        "Dept_Id": null,
+
+        "Section_Id": null,
+
+        "SecurityUserID": 0
+
+      }
+
+    ],
+
+    "SelObservers": null,
+
+    "SelObservees": null,
+
+    "SelSupervisors": null,
+
+    "IsExternal": true,
+
+    "CreatedDate": "2018-03-09T14:49:03.783",
+
+    "Attachments": null,
+
+    "IsCreator": true,
+
+    "Base64_JSSE_ID": "603",
+
+    "majorgroups": null,
+
+    "organizations": null,
+
+    "departments": null,
+
+    "sections": null,
+
+    "AttachmentCount": 0,
+
+    "ContractCompanyID": null,
+
+    "Image": null,
+
+    "ImageName": null
+
+  },
+
+  {
+
+    "JSSE_ID": 583,
+
+    "Observer_ID": 0,
+
+    "Observee_ID": 0,
+
+    "Hierarchy_ID": 0,
+
+    "Region_ID": 1,
+
+    "Region": "Bronx",
+
+    "JSSETitle": null,
+
+    "JobName": null,
+
+    "JobDescription": null,
+
+    "JSSEDate": "2018-02-08T00:00:00",
+
+    "Categories": null,
+
+    "JSSEStatus": "Draft",
+
+    "IsAnonymous": false,
+
+    "IsOBSRAnonymous": null,
+
+    "MajorGroup_Id": 706,
+
+    "Org_Id": 706,
+
+    "Dept_Id": null,
+
+    "Section_Id": null,
+
+    "JSSEEnteredBy": "jarugulav",
+
+    "JSSECreator": null,
+
+    "Location": "test loc 1",
+
+    "Observer": {
+
+      "CompanyId": null,
+
+      "UserRole": null,
+
+      "Emp_Id": 0,
+
+      "FirstName": null,
+
+      "LastName": null,
+
+      "UserTitle": null,
+
+      "Email": null,
+
+      "User_ID": "jarugulav",
+
+      "FullName": "Jarugula Venkata",
+
+      "MajorGroup_Id": null,
+
+      "Org_Id": null,
+
+      "Dept_Id": null,
+
+      "Section_Id": null,
+
+      "SecurityUserID": 0
+
+    },
+
+    "Observers": null,
+
+    "IsSupervsrOBSRSame": 0,
+
+    "HasContractor": null,
+
+    "Supervisors": null,
+
+    "Observees": [
+
+      {
+
+        "CompanyId": null,
+
+        "UserRole": null,
+
+        "Emp_Id": 0,
+
+        "FirstName": null,
+
+        "LastName": null,
+
+        "UserTitle": null,
+
+        "Email": null,
+
+        "User_ID": null,
+
+        "FullName": "Carrion Andres",
+
+        "MajorGroup_Id": null,
+
+        "Org_Id": null,
+
+        "Dept_Id": null,
+
+        "Section_Id": null,
+
+        "SecurityUserID": 0
+
+      }
+
+    ],
+
+    "SelObservers": null,
+
+    "SelObservees": null,
+
+    "SelSupervisors": null,
+
+    "IsExternal": true,
+
+    "CreatedDate": "2018-02-21T12:01:10.287",
+
+    "Attachments": null,
+
+    "IsCreator": true,
+
+    "Base64_JSSE_ID": "583",
+
+    "majorgroups": null,
+
+    "organizations": null,
+
+    "departments": null,
+
+    "sections": null,
+
+    "AttachmentCount": 5,
+
+    "ContractCompanyID": null,
+
+    "Image": null,
+
+    "ImageName": null
+
+  },
+
+  {
+
+    "JSSE_ID": 582,
+
+    "Observer_ID": 0,
+
+    "Observee_ID": 0,
+
+    "Hierarchy_ID": 0,
+
+    "Region_ID": 2,
+
+    "Region": "Brooklyn",
+
+    "JSSETitle": null,
+
+    "JobName": null,
+
+    "JobDescription": null,
+
+    "JSSEDate": "2018-01-31T17:11:29",
+
+    "Categories": null,
+
+    "JSSEStatus": "Submit",
+
+    "IsAnonymous": true,
+
+    "IsOBSRAnonymous": null,
+
+    "MajorGroup_Id": 706,
+
+    "Org_Id": 706,
+
+    "Dept_Id": null,
+
+    "Section_Id": null,
+
+    "JSSEEnteredBy": "jarugulav",
+
+    "JSSECreator": null,
+
+    "Location": "test 1",
+
+    "Observer": {
+
+      "CompanyId": null,
+
+      "UserRole": null,
+
+      "Emp_Id": 0,
+
+      "FirstName": null,
+
+      "LastName": null,
+
+      "UserTitle": null,
+
+      "Email": null,
+
+      "User_ID": "jarugulav",
+
+      "FullName": "Jarugula Venkata",
+
+      "MajorGroup_Id": null,
+
+      "Org_Id": null,
+
+      "Dept_Id": null,
+
+      "Section_Id": null,
+
+      "SecurityUserID": 0
+
+    },
+
+    "Observers": null,
+
+    "IsSupervsrOBSRSame": 0,
+
+    "HasContractor": null,
+
+    "Supervisors": null,
+
+    "Observees": [
+
+      {
+
+        "CompanyId": null,
+
+        "UserRole": null,
+
+        "Emp_Id": 0,
+
+        "FirstName": null,
+
+        "LastName": null,
+
+        "UserTitle": null,
+
+        "Email": null,
+
+        "User_ID": null,
+
+        "FullName": "Anonymous",
+
+        "MajorGroup_Id": null,
+
+        "Org_Id": null,
+
+        "Dept_Id": null,
+
+        "Section_Id": null,
+
+        "SecurityUserID": 0
+
+      }
+
+    ],
+
+    "SelObservers": null,
+
+    "SelObservees": null,
+
+    "SelSupervisors": null,
+
+    "IsExternal": true,
+
+    "CreatedDate": "2018-02-15T17:12:06.067",
+
+    "Attachments": null,
+
+    "IsCreator": true,
+
+    "Base64_JSSE_ID": "582",
+
+    "majorgroups": null,
+
+    "organizations": null,
+
+    "departments": null,
+
+    "sections": null,
+
+    "AttachmentCount": 0,
+
+    "ContractCompanyID": null,
+
+    "Image": null,
+
+    "ImageName": null
+
+  },
+
+  {
+
+    "JSSE_ID": 581,
+
+    "Observer_ID": 0,
+
+    "Observee_ID": 0,
+
+    "Hierarchy_ID": 0,
+
+    "Region_ID": 1,
+
+    "Region": "Bronx",
+
+    "JSSETitle": null,
+
+    "JobName": null,
+
+    "JobDescription": null,
+
+    "JSSEDate": "2018-02-15T16:09:43",
+
+    "Categories": null,
+
+    "JSSEStatus": "Draft",
+
+    "IsAnonymous": true,
+
+    "IsOBSRAnonymous": null,
+
+    "MajorGroup_Id": 706,
+
+    "Org_Id": 706,
+
+    "Dept_Id": null,
+
+    "Section_Id": null,
+
+    "JSSEEnteredBy": "jarugulav",
+
+    "JSSECreator": null,
+
+    "Location": "gggggggggg",
+
+    "Observer": {
+
+      "CompanyId": null,
+
+      "UserRole": null,
+
+      "Emp_Id": 0,
+
+      "FirstName": null,
+
+      "LastName": null,
+
+      "UserTitle": null,
+
+      "Email": null,
+
+      "User_ID": "jarugulav",
+
+      "FullName": "Jarugula Venkata",
+
+      "MajorGroup_Id": null,
+
+      "Org_Id": null,
+
+      "Dept_Id": null,
+
+      "Section_Id": null,
+
+      "SecurityUserID": 0
+
+    },
+
+    "Observers": null,
+
+    "IsSupervsrOBSRSame": 0,
+
+    "HasContractor": null,
+
+    "Supervisors": null,
+
+    "Observees": [
+
+      {
+
+        "CompanyId": null,
+
+        "UserRole": null,
+
+        "Emp_Id": 0,
+
+        "FirstName": null,
+
+        "LastName": null,
+
+        "UserTitle": null,
+
+        "Email": null,
+
+        "User_ID": null,
+
+        "FullName": "Anonymous",
+
+        "MajorGroup_Id": null,
+
+        "Org_Id": null,
+
+        "Dept_Id": null,
+
+        "Section_Id": null,
+
+        "SecurityUserID": 0
+
+      }
+
+    ],
+
+    "SelObservers": null,
+
+    "SelObservees": null,
+
+    "SelSupervisors": null,
+
+    "IsExternal": true,
+
+    "CreatedDate": "2018-02-15T16:10:19.163",
+
+    "Attachments": null,
+
+    "IsCreator": true,
+
+    "Base64_JSSE_ID": "581",
+
+    "majorgroups": null,
+
+    "organizations": null,
+
+    "departments": null,
+
+    "sections": null,
+
+    "AttachmentCount": 0,
+
+    "ContractCompanyID": null,
+
+    "Image": null,
+
+    "ImageName": null
+
+  },
+
+  {
+
+    "JSSE_ID": 579,
+
+    "Observer_ID": 0,
+
+    "Observee_ID": 0,
+
+    "Hierarchy_ID": 0,
+
+    "Region_ID": 2,
+
+    "Region": "Brooklyn",
+
+    "JSSETitle": null,
+
+    "JobName": null,
+
+    "JobDescription": null,
+
+    "JSSEDate": "2018-02-15T00:00:00",
+
+    "Categories": null,
+
+    "JSSEStatus": "Draft",
+
+    "IsAnonymous": true,
+
+    "IsOBSRAnonymous": null,
+
+    "MajorGroup_Id": 706,
+
+    "Org_Id": 706,
+
+    "Dept_Id": null,
+
+    "Section_Id": null,
+
+    "JSSEEnteredBy": "jarugulav",
+
+    "JSSECreator": null,
+
+    "Location": "rfhgf",
+
+    "Observer": {
+
+      "CompanyId": null,
+
+      "UserRole": null,
+
+      "Emp_Id": 0,
+
+      "FirstName": null,
+
+      "LastName": null,
+
+      "UserTitle": null,
+
+      "Email": null,
+
+      "User_ID": "jarugulav",
+
+      "FullName": "Jarugula Venkata",
+
+      "MajorGroup_Id": null,
+
+      "Org_Id": null,
+
+      "Dept_Id": null,
+
+      "Section_Id": null,
+
+      "SecurityUserID": 0
+
+    },
+
+    "Observers": null,
+
+    "IsSupervsrOBSRSame": 0,
+
+    "HasContractor": null,
+
+    "Supervisors": null,
+
+    "Observees": [
+
+      {
+
+        "CompanyId": null,
+
+        "UserRole": null,
+
+        "Emp_Id": 0,
+
+        "FirstName": null,
+
+        "LastName": null,
+
+        "UserTitle": null,
+
+        "Email": null,
+
+        "User_ID": null,
+
+        "FullName": "Anonymous",
+
+        "MajorGroup_Id": null,
+
+        "Org_Id": null,
+
+        "Dept_Id": null,
+
+        "Section_Id": null,
+
+        "SecurityUserID": 0
+
+      }
+
+    ],
+
+    "SelObservers": null,
+
+    "SelObservees": null,
+
+    "SelSupervisors": null,
+
+    "IsExternal": true,
+
+    "CreatedDate": "2018-02-15T15:39:41.987",
+
+    "Attachments": null,
+
+    "IsCreator": true,
+
+    "Base64_JSSE_ID": "579",
+
+    "majorgroups": null,
+
+    "organizations": null,
+
+    "departments": null,
+
+    "sections": null,
+
+    "AttachmentCount": 0,
+
+    "ContractCompanyID": null,
+
+    "Image": null,
+
+    "ImageName": null
+
+  },
+
+  {
+
+    "JSSE_ID": 578,
+
+    "Observer_ID": 0,
+
+    "Observee_ID": 0,
+
+    "Hierarchy_ID": 0,
+
+    "Region_ID": 2,
+
+    "Region": "Brooklyn",
+
+    "JSSETitle": null,
+
+    "JobName": null,
+
+    "JobDescription": null,
+
+    "JSSEDate": "2018-02-06T00:00:00",
+
+    "Categories": null,
+
+    "JSSEStatus": "Submit",
+
+    "IsAnonymous": true,
+
+    "IsOBSRAnonymous": null,
+
+    "MajorGroup_Id": 706,
+
+    "Org_Id": 706,
+
+    "Dept_Id": null,
+
+    "Section_Id": null,
+
+    "JSSEEnteredBy": "jarugulav",
+
+    "JSSECreator": null,
+
+    "Location": "SCDAS",
+
+    "Observer": {
+
+      "CompanyId": null,
+
+      "UserRole": null,
+
+      "Emp_Id": 0,
+
+      "FirstName": null,
+
+      "LastName": null,
+
+      "UserTitle": null,
+
+      "Email": null,
+
+      "User_ID": "dalapathiv",
+
+      "FullName": "Dalapathi Venkata",
+
+      "MajorGroup_Id": null,
+
+      "Org_Id": null,
+
+      "Dept_Id": null,
+
+      "Section_Id": null,
+
+      "SecurityUserID": 0
+
+    },
+
+    "Observers": null,
+
+    "IsSupervsrOBSRSame": 0,
+
+    "HasContractor": null,
+
+    "Supervisors": null,
+
+    "Observees": [
+
+      {
+
+        "CompanyId": null,
+
+        "UserRole": null,
+
+        "Emp_Id": 0,
+
+        "FirstName": null,
+
+        "LastName": null,
+
+        "UserTitle": null,
+
+        "Email": null,
+
+        "User_ID": null,
+
+        "FullName": "Anonymous",
+
+        "MajorGroup_Id": null,
+
+        "Org_Id": null,
+
+        "Dept_Id": null,
+
+        "Section_Id": null,
+
+        "SecurityUserID": 0
+
+      }
+
+    ],
+
+    "SelObservers": null,
+
+    "SelObservees": null,
+
+    "SelSupervisors": null,
+
+    "IsExternal": true,
+
+    "CreatedDate": "2018-02-15T15:06:00.493",
+
+    "Attachments": null,
+
+    "IsCreator": true,
+
+    "Base64_JSSE_ID": "578",
+
+    "majorgroups": null,
+
+    "organizations": null,
+
+    "departments": null,
+
+    "sections": null,
+
+    "AttachmentCount": 0,
+
+    "ContractCompanyID": null,
+
+    "Image": null,
+
+    "ImageName": null
+
+  },
+
+  {
+
+    "JSSE_ID": 577,
+
+    "Observer_ID": 0,
+
+    "Observee_ID": 0,
+
+    "Hierarchy_ID": 0,
+
+    "Region_ID": 1,
+
+    "Region": "Bronx",
+
+    "JSSETitle": null,
+
+    "JobName": null,
+
+    "JobDescription": null,
+
+    "JSSEDate": "2018-02-07T00:00:00",
+
+    "Categories": null,
+
+    "JSSEStatus": "Submit",
+
+    "IsAnonymous": true,
+
+    "IsOBSRAnonymous": null,
+
+    "MajorGroup_Id": 706,
+
+    "Org_Id": 706,
+
+    "Dept_Id": null,
+
+    "Section_Id": null,
+
+    "JSSEEnteredBy": "jarugulav",
+
+    "JSSECreator": null,
+
+    "Location": "DVZSX",
+
+    "Observer": {
+
+      "CompanyId": null,
+
+      "UserRole": null,
+
+      "Emp_Id": 0,
+
+      "FirstName": null,
+
+      "LastName": null,
+
+      "UserTitle": null,
+
+      "Email": null,
+
+      "User_ID": "dalapathiv",
+
+      "FullName": "Dalapathi Venkata",
+
+      "MajorGroup_Id": null,
+
+      "Org_Id": null,
+
+      "Dept_Id": null,
+
+      "Section_Id": null,
+
+      "SecurityUserID": 0
+
+    },
+
+    "Observers": null,
+
+    "IsSupervsrOBSRSame": 0,
+
+    "HasContractor": null,
+
+    "Supervisors": null,
+
+    "Observees": [
+
+      {
+
+        "CompanyId": null,
+
+        "UserRole": null,
+
+        "Emp_Id": 0,
+
+        "FirstName": null,
+
+        "LastName": null,
+
+        "UserTitle": null,
+
+        "Email": null,
+
+        "User_ID": null,
+
+        "FullName": "Anonymous",
+
+        "MajorGroup_Id": null,
+
+        "Org_Id": null,
+
+        "Dept_Id": null,
+
+        "Section_Id": null,
+
+        "SecurityUserID": 0
+
+      }
+
+    ],
+
+    "SelObservers": null,
+
+    "SelObservees": null,
+
+    "SelSupervisors": null,
+
+    "IsExternal": true,
+
+    "CreatedDate": "2018-02-15T15:04:30.76",
+
+    "Attachments": null,
+
+    "IsCreator": true,
+
+    "Base64_JSSE_ID": "577",
+
+    "majorgroups": null,
+
+    "organizations": null,
+
+    "departments": null,
+
+    "sections": null,
+
+    "AttachmentCount": 0,
+
+    "ContractCompanyID": null,
+
+    "Image": null,
+
+    "ImageName": null
+
+  },
+
+  {
+
+    "JSSE_ID": 576,
+
+    "Observer_ID": 0,
+
+    "Observee_ID": 0,
+
+    "Hierarchy_ID": 0,
+
+    "Region_ID": 1,
+
+    "Region": "Bronx",
+
+    "JSSETitle": null,
+
+    "JobName": null,
+
+    "JobDescription": null,
+
+    "JSSEDate": "2018-02-07T00:00:00",
+
+    "Categories": null,
+
+    "JSSEStatus": "Submit",
+
+    "IsAnonymous": true,
+
+    "IsOBSRAnonymous": null,
+
+    "MajorGroup_Id": 706,
+
+    "Org_Id": 706,
+
+    "Dept_Id": null,
+
+    "Section_Id": null,
+
+    "JSSEEnteredBy": "jarugulav",
+
+    "JSSECreator": null,
+
+    "Location": "SDACVFDAS",
+
+    "Observer": {
+
+      "CompanyId": null,
+
+      "UserRole": null,
+
+      "Emp_Id": 0,
+
+      "FirstName": null,
+
+      "LastName": null,
+
+      "UserTitle": null,
+
+      "Email": null,
+
+      "User_ID": "dalapathiv",
+
+      "FullName": "Dalapathi Venkata",
+
+      "MajorGroup_Id": null,
+
+      "Org_Id": null,
+
+      "Dept_Id": null,
+
+      "Section_Id": null,
+
+      "SecurityUserID": 0
+
+    },
+
+    "Observers": null,
+
+    "IsSupervsrOBSRSame": 0,
+
+    "HasContractor": null,
+
+    "Supervisors": null,
+
+    "Observees": [
+
+      {
+
+        "CompanyId": null,
+
+        "UserRole": null,
+
+        "Emp_Id": 0,
+
+        "FirstName": null,
+
+        "LastName": null,
+
+        "UserTitle": null,
+
+        "Email": null,
+
+        "User_ID": null,
+
+        "FullName": "Anonymous",
+
+        "MajorGroup_Id": null,
+
+        "Org_Id": null,
+
+        "Dept_Id": null,
+
+        "Section_Id": null,
+
+        "SecurityUserID": 0
+
+      }
+
+    ],
+
+    "SelObservers": null,
+
+    "SelObservees": null,
+
+    "SelSupervisors": null,
+
+    "IsExternal": true,
+
+    "CreatedDate": "2018-02-15T15:03:13.85",
+
+    "Attachments": null,
+
+    "IsCreator": true,
+
+    "Base64_JSSE_ID": "576",
+
+    "majorgroups": null,
+
+    "organizations": null,
+
+    "departments": null,
+
+    "sections": null,
+
+    "AttachmentCount": 0,
+
+    "ContractCompanyID": null,
+
+    "Image": null,
+
+    "ImageName": null
+
+  },
+
+  {
+
+    "JSSE_ID": 575,
+
+    "Observer_ID": 0,
+
+    "Observee_ID": 0,
+
+    "Hierarchy_ID": 0,
+
+    "Region_ID": 2,
+
+    "Region": "Brooklyn",
+
+    "JSSETitle": null,
+
+    "JobName": null,
+
+    "JobDescription": null,
+
+    "JSSEDate": "2018-02-07T00:00:00",
+
+    "Categories": null,
+
+    "JSSEStatus": "Draft",
+
+    "IsAnonymous": true,
+
+    "IsOBSRAnonymous": null,
+
+    "MajorGroup_Id": 706,
+
+    "Org_Id": 706,
+
+    "Dept_Id": null,
+
+    "Section_Id": null,
+
+    "JSSEEnteredBy": "jarugulav",
+
+    "JSSECreator": null,
+
+    "Location": "cvxcvxc",
+
+    "Observer": {
+
+      "CompanyId": null,
+
+      "UserRole": null,
+
+      "Emp_Id": 0,
+
+      "FirstName": null,
+
+      "LastName": null,
+
+      "UserTitle": null,
+
+      "Email": null,
+
+      "User_ID": "dalapathiv",
+
+      "FullName": "Dalapathi Venkata",
+
+      "MajorGroup_Id": null,
+
+      "Org_Id": null,
+
+      "Dept_Id": null,
+
+      "Section_Id": null,
+
+      "SecurityUserID": 0
+
+    },
+
+    "Observers": null,
+
+    "IsSupervsrOBSRSame": 0,
+
+    "HasContractor": null,
+
+    "Supervisors": null,
+
+    "Observees": [
+
+      {
+
+        "CompanyId": null,
+
+        "UserRole": null,
+
+        "Emp_Id": 0,
+
+        "FirstName": null,
+
+        "LastName": null,
+
+        "UserTitle": null,
+
+        "Email": null,
+
+        "User_ID": null,
+
+        "FullName": "Anonymous",
+
+        "MajorGroup_Id": null,
+
+        "Org_Id": null,
+
+        "Dept_Id": null,
+
+        "Section_Id": null,
+
+        "SecurityUserID": 0
+
+      }
+
+    ],
+
+    "SelObservers": null,
+
+    "SelObservees": null,
+
+    "SelSupervisors": null,
+
+    "IsExternal": true,
+
+    "CreatedDate": "2018-02-15T15:00:47.423",
+
+    "Attachments": null,
+
+    "IsCreator": true,
+
+    "Base64_JSSE_ID": "575",
+
+    "majorgroups": null,
+
+    "organizations": null,
+
+    "departments": null,
+
+    "sections": null,
+
+    "AttachmentCount": 0,
+
+    "ContractCompanyID": null,
+
+    "Image": null,
+
+    "ImageName": null
+
+  },
+
+  {
+
+    "JSSE_ID": 573,
+
+    "Observer_ID": 0,
+
+    "Observee_ID": 0,
+
+    "Hierarchy_ID": 0,
+
+    "Region_ID": 3,
+
+    "Region": "Manhattan",
+
+    "JSSETitle": null,
+
+    "JobName": null,
+
+    "JobDescription": null,
+
+    "JSSEDate": "2018-01-30T00:00:00",
+
+    "Categories": null,
+
+    "JSSEStatus": "Submit",
+
+    "IsAnonymous": true,
+
+    "IsOBSRAnonymous": null,
+
+    "MajorGroup_Id": 706,
+
+    "Org_Id": 706,
+
+    "Dept_Id": null,
+
+    "Section_Id": null,
+
+    "JSSEEnteredBy": "jarugulav",
+
+    "JSSECreator": null,
+
+    "Location": "0",
+
+    "Observer": {
+
+      "CompanyId": null,
+
+      "UserRole": null,
+
+      "Emp_Id": 0,
+
+      "FirstName": null,
+
+      "LastName": null,
+
+      "UserTitle": null,
+
+      "Email": null,
+
+      "User_ID": "jarugulav",
+
+      "FullName": "Jarugula Venkata",
+
+      "MajorGroup_Id": null,
+
+      "Org_Id": null,
+
+      "Dept_Id": null,
+
+      "Section_Id": null,
+
+      "SecurityUserID": 0
+
+    },
+
+    "Observers": null,
+
+    "IsSupervsrOBSRSame": 0,
+
+    "HasContractor": null,
+
+    "Supervisors": null,
+
+    "Observees": [
+
+      {
+
+        "CompanyId": null,
+
+        "UserRole": null,
+
+        "Emp_Id": 0,
+
+        "FirstName": null,
+
+        "LastName": null,
+
+        "UserTitle": null,
+
+        "Email": null,
+
+        "User_ID": null,
+
+        "FullName": "Anonymous",
+
+        "MajorGroup_Id": null,
+
+        "Org_Id": null,
+
+        "Dept_Id": null,
+
+        "Section_Id": null,
+
+        "SecurityUserID": 0
+
+      }
+
+    ],
+
+    "SelObservers": null,
+
+    "SelObservees": null,
+
+    "SelSupervisors": null,
+
+    "IsExternal": true,
+
+    "CreatedDate": "2018-02-15T10:15:27.073",
+
+    "Attachments": null,
+
+    "IsCreator": true,
+
+    "Base64_JSSE_ID": "573",
+
+    "majorgroups": null,
+
+    "organizations": null,
+
+    "departments": null,
+
+    "sections": null,
+
+    "AttachmentCount": 0,
+
+    "ContractCompanyID": null,
+
+    "Image": null,
+
+    "ImageName": null
+
+  },
+
+  {
+
+    "JSSE_ID": 570,
+
+    "Observer_ID": 0,
+
+    "Observee_ID": 0,
+
+    "Hierarchy_ID": 0,
+
+    "Region_ID": 1,
+
+    "Region": "Bronx",
+
+    "JSSETitle": null,
+
+    "JobName": null,
+
+    "JobDescription": null,
+
+    "JSSEDate": "2018-02-13T00:00:00",
+
+    "Categories": null,
+
+    "JSSEStatus": "Submit",
+
+    "IsAnonymous": true,
+
+    "IsOBSRAnonymous": null,
+
+    "MajorGroup_Id": 706,
+
+    "Org_Id": 706,
+
+    "Dept_Id": null,
+
+    "Section_Id": null,
+
+    "JSSEEnteredBy": "jarugulav",
+
+    "JSSECreator": null,
+
+    "Location": "4",
+
+    "Observer": {
+
+      "CompanyId": null,
+
+      "UserRole": null,
+
+      "Emp_Id": 0,
+
+      "FirstName": null,
+
+      "LastName": null,
+
+      "UserTitle": null,
+
+      "Email": null,
+
+      "User_ID": "dalapathiv",
+
+      "FullName": "Dalapathi Venkata",
+
+      "MajorGroup_Id": null,
+
+      "Org_Id": null,
+
+      "Dept_Id": null,
+
+      "Section_Id": null,
+
+      "SecurityUserID": 0
+
+    },
+
+    "Observers": null,
+
+    "IsSupervsrOBSRSame": 0,
+
+    "HasContractor": null,
+
+    "Supervisors": null,
+
+    "Observees": [
+
+      {
+
+        "CompanyId": null,
+
+        "UserRole": null,
+
+        "Emp_Id": 0,
+
+        "FirstName": null,
+
+        "LastName": null,
+
+        "UserTitle": null,
+
+        "Email": null,
+
+        "User_ID": null,
+
+        "FullName": "Anonymous",
+
+        "MajorGroup_Id": null,
+
+        "Org_Id": null,
+
+        "Dept_Id": null,
+
+        "Section_Id": null,
+
+        "SecurityUserID": 0
+
+      }
+
+    ],
+
+    "SelObservers": null,
+
+    "SelObservees": null,
+
+    "SelSupervisors": null,
+
+    "IsExternal": true,
+
+    "CreatedDate": "2018-02-15T09:41:52.667",
+
+    "Attachments": null,
+
+    "IsCreator": true,
+
+    "Base64_JSSE_ID": "570",
+
+    "majorgroups": null,
+
+    "organizations": null,
+
+    "departments": null,
+
+    "sections": null,
+
+    "AttachmentCount": 0,
+
+    "ContractCompanyID": null,
+
+    "Image": null,
+
+    "ImageName": null
+
+  },
+
+  {
+
+    "JSSE_ID": 565,
+
+    "Observer_ID": 0,
+
+    "Observee_ID": 0,
+
+    "Hierarchy_ID": 0,
+
+    "Region_ID": 1,
+
+    "Region": "Bronx",
+
+    "JSSETitle": null,
+
+    "JobName": null,
+
+    "JobDescription": null,
+
+    "JSSEDate": "2018-02-05T13:07:00",
+
+    "Categories": null,
+
+    "JSSEStatus": "Submit",
+
+    "IsAnonymous": true,
+
+    "IsOBSRAnonymous": null,
+
+    "MajorGroup_Id": 706,
+
+    "Org_Id": 706,
+
+    "Dept_Id": null,
+
+    "Section_Id": null,
+
+    "JSSEEnteredBy": "jarugulav",
+
+    "JSSECreator": null,
+
+    "Location": "4",
+
+    "Observer": {
+
+      "CompanyId": null,
+
+      "UserRole": null,
+
+      "Emp_Id": 0,
+
+      "FirstName": null,
+
+      "LastName": null,
+
+      "UserTitle": null,
+
+      "Email": null,
+
+      "User_ID": "dalapathiv",
+
+      "FullName": "Dalapathi Venkata",
+
+      "MajorGroup_Id": null,
+
+      "Org_Id": null,
+
+      "Dept_Id": null,
+
+      "Section_Id": null,
+
+      "SecurityUserID": 0
+
+    },
+
+    "Observers": null,
+
+    "IsSupervsrOBSRSame": 0,
+
+    "HasContractor": null,
+
+    "Supervisors": null,
+
+    "Observees": [
+
+      {
+
+        "CompanyId": null,
+
+        "UserRole": null,
+
+        "Emp_Id": 0,
+
+        "FirstName": null,
+
+        "LastName": null,
+
+        "UserTitle": null,
+
+        "Email": null,
+
+        "User_ID": null,
+
+        "FullName": "Anonymous",
+
+        "MajorGroup_Id": null,
+
+        "Org_Id": null,
+
+        "Dept_Id": null,
+
+        "Section_Id": null,
+
+        "SecurityUserID": 0
+
+      }
+
+    ],
+
+    "SelObservers": null,
+
+    "SelObservees": null,
+
+    "SelSupervisors": null,
+
+    "IsExternal": true,
+
+    "CreatedDate": "2018-02-14T13:07:11.39",
+
+    "Attachments": null,
+
+    "IsCreator": true,
+
+    "Base64_JSSE_ID": "565",
+
+    "majorgroups": null,
+
+    "organizations": null,
+
+    "departments": null,
+
+    "sections": null,
+
+    "AttachmentCount": 0,
+
+    "ContractCompanyID": null,
+
+    "Image": null,
+
+    "ImageName": null
+
+  },
+
+  {
+
+    "JSSE_ID": 550,
+
+    "Observer_ID": 0,
+
+    "Observee_ID": 0,
+
+    "Hierarchy_ID": 0,
+
+    "Region_ID": 1,
+
+    "Region": "Bronx",
+
+    "JSSETitle": null,
+
+    "JobName": null,
+
+    "JobDescription": null,
+
+    "JSSEDate": "2017-12-05T12:42:11",
+
+    "Categories": null,
+
+    "JSSEStatus": "Draft",
+
+    "IsAnonymous": true,
+
+    "IsOBSRAnonymous": null,
+
+    "MajorGroup_Id": 706,
+
+    "Org_Id": 706,
+
+    "Dept_Id": null,
+
+    "Section_Id": null,
+
+    "JSSEEnteredBy": "jarugulav",
+
+    "JSSECreator": null,
+
+    "Location": "345",
+
+    "Observer": {
+
+      "CompanyId": null,
+
+      "UserRole": null,
+
+      "Emp_Id": 0,
+
+      "FirstName": null,
+
+      "LastName": null,
+
+      "UserTitle": null,
+
+      "Email": null,
+
+      "User_ID": "dalapathiv",
+
+      "FullName": "Dalapathi Venkata",
+
+      "MajorGroup_Id": null,
+
+      "Org_Id": null,
+
+      "Dept_Id": null,
+
+      "Section_Id": null,
+
+      "SecurityUserID": 0
+
+    },
+
+    "Observers": null,
+
+    "IsSupervsrOBSRSame": 0,
+
+    "HasContractor": null,
+
+    "Supervisors": null,
+
+    "Observees": [
+
+      {
+
+        "CompanyId": null,
+
+        "UserRole": null,
+
+        "Emp_Id": 0,
+
+        "FirstName": null,
+
+        "LastName": null,
+
+        "UserTitle": null,
+
+        "Email": null,
+
+        "User_ID": null,
+
+        "FullName": "Anonymous",
+
+        "MajorGroup_Id": null,
+
+        "Org_Id": null,
+
+        "Dept_Id": null,
+
+        "Section_Id": null,
+
+        "SecurityUserID": 0
+
+      }
+
+    ],
+
+    "SelObservers": null,
+
+    "SelObservees": null,
+
+    "SelSupervisors": null,
+
+    "IsExternal": true,
+
+    "CreatedDate": "2017-12-05T12:42:29.43",
+
+    "Attachments": null,
+
+    "IsCreator": true,
+
+    "Base64_JSSE_ID": "550",
+
+    "majorgroups": null,
+
+    "organizations": null,
+
+    "departments": null,
+
+    "sections": null,
+
+    "AttachmentCount": 0,
+
+    "ContractCompanyID": null,
+
+    "Image": null,
+
+    "ImageName": null
+
+  },
+
+  {
+
+    "JSSE_ID": 550,
+
+    "Observer_ID": 0,
+
+    "Observee_ID": 0,
+
+    "Hierarchy_ID": 0,
+
+    "Region_ID": 1,
+
+    "Region": "Bronx",
+
+    "JSSETitle": null,
+
+    "JobName": null,
+
+    "JobDescription": null,
+
+    "JSSEDate": "2017-12-05T12:42:11",
+
+    "Categories": null,
+
+    "JSSEStatus": "Draft",
+
+    "IsAnonymous": true,
+
+    "IsOBSRAnonymous": null,
+
+    "MajorGroup_Id": 706,
+
+    "Org_Id": 706,
+
+    "Dept_Id": null,
+
+    "Section_Id": null,
+
+    "JSSEEnteredBy": "jarugulav",
+
+    "JSSECreator": null,
+
+    "Location": "345",
+
+    "Observer": {
+
+      "CompanyId": null,
+
+      "UserRole": null,
+
+      "Emp_Id": 0,
+
+      "FirstName": null,
+
+      "LastName": null,
+
+      "UserTitle": null,
+
+      "Email": null,
+
+      "User_ID": "dalapathiv",
+
+      "FullName": "Dalapathi Venkata",
+
+      "MajorGroup_Id": null,
+
+      "Org_Id": null,
+
+      "Dept_Id": null,
+
+      "Section_Id": null,
+
+      "SecurityUserID": 0
+
+    },
+
+    "Observers": null,
+
+    "IsSupervsrOBSRSame": 0,
+
+    "HasContractor": null,
+
+    "Supervisors": null,
+
+    "Observees": [
+
+      {
+
+        "CompanyId": null,
+
+        "UserRole": null,
+
+        "Emp_Id": 0,
+
+        "FirstName": null,
+
+        "LastName": null,
+
+        "UserTitle": null,
+
+        "Email": null,
+
+        "User_ID": null,
+
+        "FullName": "Anonymous",
+
+        "MajorGroup_Id": null,
+
+        "Org_Id": null,
+
+        "Dept_Id": null,
+
+        "Section_Id": null,
+
+        "SecurityUserID": 0
+
+      }
+
+    ],
+
+    "SelObservers": null,
+
+    "SelObservees": null,
+
+    "SelSupervisors": null,
+
+    "IsExternal": true,
+
+    "CreatedDate": "2017-12-05T12:42:29.43",
+
+    "Attachments": null,
+
+    "IsCreator": true,
+
+    "Base64_JSSE_ID": "550",
+
+    "majorgroups": null,
+
+    "organizations": null,
+
+    "departments": null,
+
+    "sections": null,
+
+    "AttachmentCount": 0,
+
+    "ContractCompanyID": null,
+
+    "Image": null,
+
+    "ImageName": null
+
+  },
+
+  {
+
+    "JSSE_ID": 531,
+
+    "Observer_ID": 0,
+
+    "Observee_ID": 0,
+
+    "Hierarchy_ID": 0,
+
+    "Region_ID": 4,
+
+    "Region": "Queens",
+
+    "JSSETitle": null,
+
+    "JobName": null,
+
+    "JobDescription": null,
+
+    "JSSEDate": "2016-06-23T00:00:00",
+
+    "Categories": null,
+
+    "JSSEStatus": "submit",
+
+    "IsAnonymous": true,
+
+    "IsOBSRAnonymous": null,
+
+    "MajorGroup_Id": 706,
+
+    "Org_Id": 706,
+
+    "Dept_Id": null,
+
+    "Section_Id": null,
+
+    "JSSEEnteredBy": "jarugulav",
+
+    "JSSECreator": null,
+
+    "Location": "loc 94",
+
+    "Observer": {
+
+      "CompanyId": null,
+
+      "UserRole": null,
+
+      "Emp_Id": 0,
+
+      "FirstName": null,
+
+      "LastName": null,
+
+      "UserTitle": null,
+
+      "Email": null,
+
+      "User_ID": "dalapathiv",
+
+      "FullName": "Dalapathi Venkata",
+
+      "MajorGroup_Id": null,
+
+      "Org_Id": null,
+
+      "Dept_Id": null,
+
+      "Section_Id": null,
+
+      "SecurityUserID": 0
+
+    },
+
+    "Observers": null,
+
+    "IsSupervsrOBSRSame": 0,
+
+    "HasContractor": null,
+
+    "Supervisors": null,
+
+    "Observees": [
+
+      {
+
+        "CompanyId": null,
+
+        "UserRole": null,
+
+        "Emp_Id": 0,
+
+        "FirstName": null,
+
+        "LastName": null,
+
+        "UserTitle": null,
+
+        "Email": null,
+
+        "User_ID": null,
+
+        "FullName": "Anonymous",
+
+        "MajorGroup_Id": null,
+
+        "Org_Id": null,
+
+        "Dept_Id": null,
+
+        "Section_Id": null,
+
+        "SecurityUserID": 0
+
+      }
+
+    ],
+
+    "SelObservers": null,
+
+    "SelObservees": null,
+
+    "SelSupervisors": null,
+
+    "IsExternal": true,
+
+    "CreatedDate": "2017-08-31T16:55:44.523",
+
+    "Attachments": null,
+
+    "IsCreator": true,
+
+    "Base64_JSSE_ID": "531",
+
+    "majorgroups": null,
+
+    "organizations": null,
+
+    "departments": null,
+
+    "sections": null,
+
+    "AttachmentCount": 0,
+
+    "ContractCompanyID": null,
+
+    "Image": null,
+
+    "ImageName": null
+
+  },
+
+  {
+
+    "JSSE_ID": 525,
+
+    "Observer_ID": 0,
+
+    "Observee_ID": 0,
+
+    "Hierarchy_ID": 0,
+
+    "Region_ID": 1,
+
+    "Region": "Bronx",
+
+    "JSSETitle": null,
+
+    "JobName": null,
+
+    "JobDescription": null,
+
+    "JSSEDate": "2017-08-07T00:00:00",
+
+    "Categories": null,
+
+    "JSSEStatus": "Draft",
+
+    "IsAnonymous": true,
+
+    "IsOBSRAnonymous": null,
+
+    "MajorGroup_Id": 706,
+
+    "Org_Id": 706,
+
+    "Dept_Id": null,
+
+    "Section_Id": null,
+
+    "JSSEEnteredBy": "dalapathiv",
+
+    "JSSECreator": null,
+
+    "Location": "vdsagvasfgbbm",
+
+    "Observer": {
+
+      "CompanyId": null,
+
+      "UserRole": null,
+
+      "Emp_Id": 0,
+
+      "FirstName": null,
+
+      "LastName": null,
+
+      "UserTitle": null,
+
+      "Email": null,
+
+      "User_ID": "jarugulav",
+
+      "FullName": "Jarugula Venkata",
+
+      "MajorGroup_Id": null,
+
+      "Org_Id": null,
+
+      "Dept_Id": null,
+
+      "Section_Id": null,
+
+      "SecurityUserID": 0
+
+    },
+
+    "Observers": null,
+
+    "IsSupervsrOBSRSame": 0,
+
+    "HasContractor": null,
+
+    "Supervisors": null,
+
+    "Observees": [
+
+      {
+
+        "CompanyId": null,
+
+        "UserRole": null,
+
+        "Emp_Id": 0,
+
+        "FirstName": null,
+
+        "LastName": null,
+
+        "UserTitle": null,
+
+        "Email": null,
+
+        "User_ID": null,
+
+        "FullName": "Anonymous",
+
+        "MajorGroup_Id": null,
+
+        "Org_Id": null,
+
+        "Dept_Id": null,
+
+        "Section_Id": null,
+
+        "SecurityUserID": 0
+
+      }
+
+    ],
+
+    "SelObservers": null,
+
+    "SelObservees": null,
+
+    "SelSupervisors": null,
+
+    "IsExternal": true,
+
+    "CreatedDate": "2017-08-28T16:20:56.05",
+
+    "Attachments": null,
+
+    "IsCreator": true,
+
+    "Base64_JSSE_ID": "525",
+
+    "majorgroups": null,
+
+    "organizations": null,
+
+    "departments": null,
+
+    "sections": null,
+
+    "AttachmentCount": 0,
+
+    "ContractCompanyID": null,
+
+    "Image": null,
+
+    "ImageName": null
+
+  },
+
+  {
+
+    "JSSE_ID": 523,
+
+    "Observer_ID": 0,
+
+    "Observee_ID": 0,
+
+    "Hierarchy_ID": 0,
+
+    "Region_ID": 4,
+
+    "Region": "Queens",
+
+    "JSSETitle": null,
+
+    "JobName": null,
+
+    "JobDescription": null,
+
+    "JSSEDate": "2017-08-04T13:39:49",
+
+    "Categories": null,
+
+    "JSSEStatus": "Submit",
+
+    "IsAnonymous": true,
+
+    "IsOBSRAnonymous": null,
+
+    "MajorGroup_Id": 706,
+
+    "Org_Id": 706,
+
+    "Dept_Id": null,
+
+    "Section_Id": null,
+
+    "JSSEEnteredBy": "jarugulav",
+
+    "JSSECreator": null,
+
+    "Location": "dff",
+
+    "Observer": {
+
+      "CompanyId": null,
+
+      "UserRole": null,
+
+      "Emp_Id": 0,
+
+      "FirstName": null,
+
+      "LastName": null,
+
+      "UserTitle": null,
+
+      "Email": null,
+
+      "User_ID": "dalapathiv",
+
+      "FullName": "Dalapathi Venkata",
+
+      "MajorGroup_Id": null,
+
+      "Org_Id": null,
+
+      "Dept_Id": null,
+
+      "Section_Id": null,
+
+      "SecurityUserID": 0
+
+    },
+
+    "Observers": null,
+
+    "IsSupervsrOBSRSame": 0,
+
+    "HasContractor": null,
+
+    "Supervisors": null,
+
+    "Observees": [
+
+      {
+
+        "CompanyId": null,
+
+        "UserRole": null,
+
+        "Emp_Id": 0,
+
+        "FirstName": null,
+
+        "LastName": null,
+
+        "UserTitle": null,
+
+        "Email": null,
+
+        "User_ID": null,
+
+        "FullName": "Anonymous",
+
+        "MajorGroup_Id": null,
+
+        "Org_Id": null,
+
+        "Dept_Id": null,
+
+        "Section_Id": null,
+
+        "SecurityUserID": 0
+
+      }
+
+    ],
+
+    "SelObservers": null,
+
+    "SelObservees": null,
+
+    "SelSupervisors": null,
+
+    "IsExternal": true,
+
+    "CreatedDate": "2017-08-07T13:43:21.513",
+
+    "Attachments": null,
+
+    "IsCreator": true,
+
+    "Base64_JSSE_ID": "523",
+
+    "majorgroups": null,
+
+    "organizations": null,
+
+    "departments": null,
+
+    "sections": null,
+
+    "AttachmentCount": 0,
+
+    "ContractCompanyID": null,
+
+    "Image": null,
+
+    "ImageName": null
+
+  },
+
+  {
+
+    "JSSE_ID": 518,
+
+    "Observer_ID": 0,
+
+    "Observee_ID": 0,
+
+    "Hierarchy_ID": 0,
+
+    "Region_ID": 6,
+
+    "Region": "Westchester",
+
+    "JSSETitle": null,
+
+    "JobName": null,
+
+    "JobDescription": null,
+
+    "JSSEDate": "2017-08-27T00:00:00",
+
+    "Categories": null,
+
+    "JSSEStatus": "Submit",
+
+    "IsAnonymous": true,
+
+    "IsOBSRAnonymous": null,
+
+    "MajorGroup_Id": 706,
+
+    "Org_Id": 706,
+
+    "Dept_Id": null,
+
+    "Section_Id": null,
+
+    "JSSEEnteredBy": "jarugulav",
+
+    "JSSECreator": null,
+
+    "Location": "jvk 23",
+
+    "Observer": {
+
+      "CompanyId": null,
+
+      "UserRole": null,
+
+      "Emp_Id": 0,
+
+      "FirstName": null,
+
+      "LastName": null,
+
+      "UserTitle": null,
+
+      "Email": null,
+
+      "User_ID": "jarugulav",
+
+      "FullName": "Jarugula Venkata",
+
+      "MajorGroup_Id": null,
+
+      "Org_Id": null,
+
+      "Dept_Id": null,
+
+      "Section_Id": null,
+
+      "SecurityUserID": 0
+
+    },
+
+    "Observers": null,
+
+    "IsSupervsrOBSRSame": 0,
+
+    "HasContractor": null,
+
+    "Supervisors": null,
+
+    "Observees": [
+
+      {
+
+        "CompanyId": null,
+
+        "UserRole": null,
+
+        "Emp_Id": 0,
+
+        "FirstName": null,
+
+        "LastName": null,
+
+        "UserTitle": null,
+
+        "Email": null,
+
+        "User_ID": null,
+
+        "FullName": "Anonymous",
+
+        "MajorGroup_Id": null,
+
+        "Org_Id": null,
+
+        "Dept_Id": null,
+
+        "Section_Id": null,
+
+        "SecurityUserID": 0
+
+      }
+
+    ],
+
+    "SelObservers": null,
+
+    "SelObservees": null,
+
+    "SelSupervisors": null,
+
+    "IsExternal": true,
+
+    "CreatedDate": "2017-07-28T15:51:27.233",
+
+    "Attachments": null,
+
+    "IsCreator": true,
+
+    "Base64_JSSE_ID": "518",
+
+    "majorgroups": null,
+
+    "organizations": null,
+
+    "departments": null,
+
+    "sections": null,
+
+    "AttachmentCount": 0,
+
+    "ContractCompanyID": null,
+
+    "Image": null,
+
+    "ImageName": null
+
+  },
+
+  {
+
+    "JSSE_ID": 515,
+
+    "Observer_ID": 0,
+
+    "Observee_ID": 0,
+
+    "Hierarchy_ID": 0,
+
+    "Region_ID": 3,
+
+    "Region": "Manhattan",
+
+    "JSSETitle": null,
+
+    "JobName": null,
+
+    "JobDescription": null,
+
+    "JSSEDate": "2017-07-12T13:27:28",
+
+    "Categories": null,
+
+    "JSSEStatus": "Submit",
+
+    "IsAnonymous": true,
+
+    "IsOBSRAnonymous": null,
+
+    "MajorGroup_Id": 706,
+
+    "Org_Id": 706,
+
+    "Dept_Id": null,
+
+    "Section_Id": null,
+
+    "JSSEEnteredBy": "jarugulav",
+
+    "JSSECreator": null,
+
+    "Location": "test1",
+
+    "Observer": {
+
+      "CompanyId": null,
+
+      "UserRole": null,
+
+      "Emp_Id": 0,
+
+      "FirstName": null,
+
+      "LastName": null,
+
+      "UserTitle": null,
+
+      "Email": null,
+
+      "User_ID": "jarugulav",
+
+      "FullName": "Jarugula Venkata",
+
+      "MajorGroup_Id": null,
+
+      "Org_Id": null,
+
+      "Dept_Id": null,
+
+      "Section_Id": null,
+
+      "SecurityUserID": 0
+
+    },
+
+    "Observers": null,
+
+    "IsSupervsrOBSRSame": 0,
+
+    "HasContractor": null,
+
+    "Supervisors": null,
+
+    "Observees": [
+
+      {
+
+        "CompanyId": null,
+
+        "UserRole": null,
+
+        "Emp_Id": 0,
+
+        "FirstName": null,
+
+        "LastName": null,
+
+        "UserTitle": null,
+
+        "Email": null,
+
+        "User_ID": null,
+
+        "FullName": "Anonymous",
+
+        "MajorGroup_Id": null,
+
+        "Org_Id": null,
+
+        "Dept_Id": null,
+
+        "Section_Id": null,
+
+        "SecurityUserID": 0
+
+      }
+
+    ],
+
+    "SelObservers": null,
+
+    "SelObservees": null,
+
+    "SelSupervisors": null,
+
+    "IsExternal": true,
+
+    "CreatedDate": "2017-07-28T13:31:18.69",
+
+    "Attachments": null,
+
+    "IsCreator": true,
+
+    "Base64_JSSE_ID": "515",
+
+    "majorgroups": null,
+
+    "organizations": null,
+
+    "departments": null,
+
+    "sections": null,
+
+    "AttachmentCount": 0,
+
+    "ContractCompanyID": null,
+
+    "Image": null,
+
+    "ImageName": null
+
+  },
+
+  {
+
+    "JSSE_ID": 486,
+
+    "Observer_ID": 0,
+
+    "Observee_ID": 0,
+
+    "Hierarchy_ID": 0,
+
+    "Region_ID": 1,
+
+    "Region": "Bronx",
+
+    "JSSETitle": null,
+
+    "JobName": null,
+
+    "JobDescription": null,
+
+    "JSSEDate": "2016-07-20T15:31:35",
+
+    "Categories": null,
+
+    "JSSEStatus": "Submit",
+
+    "IsAnonymous": true,
+
+    "IsOBSRAnonymous": null,
+
+    "MajorGroup_Id": 706,
+
+    "Org_Id": 706,
+
+    "Dept_Id": null,
+
+    "Section_Id": null,
+
+    "JSSEEnteredBy": "jarugulav",
+
+    "JSSECreator": null,
+
+    "Location": "45612",
+
+    "Observer": {
+
+      "CompanyId": null,
+
+      "UserRole": null,
+
+      "Emp_Id": 0,
+
+      "FirstName": null,
+
+      "LastName": null,
+
+      "UserTitle": null,
+
+      "Email": null,
+
+      "User_ID": "dalapathiv",
+
+      "FullName": "Dalapathi Venkata",
+
+      "MajorGroup_Id": null,
+
+      "Org_Id": null,
+
+      "Dept_Id": null,
+
+      "Section_Id": null,
+
+      "SecurityUserID": 0
+
+    },
+
+    "Observers": null,
+
+    "IsSupervsrOBSRSame": 0,
+
+    "HasContractor": null,
+
+    "Supervisors": null,
+
+    "Observees": [
+
+      {
+
+        "CompanyId": null,
+
+        "UserRole": null,
+
+        "Emp_Id": 0,
+
+        "FirstName": null,
+
+        "LastName": null,
+
+        "UserTitle": null,
+
+        "Email": null,
+
+        "User_ID": null,
+
+        "FullName": "Anonymous",
+
+        "MajorGroup_Id": null,
+
+        "Org_Id": null,
+
+        "Dept_Id": null,
+
+        "Section_Id": null,
+
+        "SecurityUserID": 0
+
+      }
+
+    ],
+
+    "SelObservers": null,
+
+    "SelObservees": null,
+
+    "SelSupervisors": null,
+
+    "IsExternal": true,
+
+    "CreatedDate": "2016-07-20T15:31:47.163",
+
+    "Attachments": null,
+
+    "IsCreator": true,
+
+    "Base64_JSSE_ID": "486",
+
+    "majorgroups": null,
+
+    "organizations": null,
+
+    "departments": null,
+
+    "sections": null,
+
+    "AttachmentCount": 0,
+
+    "ContractCompanyID": null,
+
+    "Image": null,
+
+    "ImageName": null
+
+  }
+
+]
